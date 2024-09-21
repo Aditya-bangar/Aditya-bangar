@@ -17,7 +17,7 @@ I'm a passionate developer with a focus on creating dynamic web applications. I 
 
 ## 💼 Major Project: ElectronHub
 
-![ElectronHub](https://via.placeholder.com/600x200?text=ElectronHub)
+![ElectronHub]([https://via.placeholder.com/600x200?text=ElectronHub](http://electronshub.lovestoblog.com/?i=1))
 
 **ElectronHub** is an electronic device retrieval system developed using:
 
@@ -25,7 +25,7 @@ I'm a passionate developer with a focus on creating dynamic web applications. I 
 - **Backend:** PHP
 - **Database:** Oracle
 
-🔗 [View Project](https://github.com/yourusername/ElectronHub) | 📄 [Project Documentation](https://yourprojectdocumentationlink)
+🔗 [View Project]([https://github.com/yourusername/ElectronHub](http://electronshub.lovestoblog.com/?i=1)) | 📄 [Project Documentation](https://yourprojectdocumentationlink)
 
 ---
 
